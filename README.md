@@ -31,7 +31,7 @@ The goals / steps of this project are the following :
 ![](/images/polynomial.png)
 
 #### 6. Calculate the radius of curvature of the lane and the position of the vehicle with respect to the center and Plot result back down onto tho road such that the lane area is identified clearly.
-![](/images/final_image.pngg)
+![](/images/final_image.png)
 
 
 ###Pipeline (video)
